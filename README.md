@@ -3,6 +3,7 @@
 A custom third-person shooter game prototype developed as part of a game developer role assessment.
 The project demonstrates implementation of core third-person gameplay mechanics, camera systems, shooting mechanics, and basic Enemy AI behaviour with configurable patrol states.
 The game supports both **PC and Mobile controls**.
+Unity Version (6000.0.62)
 
 ---
 
