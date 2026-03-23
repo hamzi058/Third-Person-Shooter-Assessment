@@ -61,3 +61,9 @@ The game supports both **PC and Mobile controls**.
 | Run / Sprint  | **Sprint Button**              |
 
 ---
+
+<img width="959" height="475" alt="01" src="https://github.com/user-attachments/assets/59ee8032-6e8e-4656-9938-c0b890c1d443" />
+
+<img width="958" height="476" alt="02" src="https://github.com/user-attachments/assets/e3872c2d-32fa-44eb-83a8-eeb478cc05fb" />
+
+<img width="958" height="473" alt="03" src="https://github.com/user-attachments/assets/9132629b-495d-4ddc-bc2c-42f666f19296" />
